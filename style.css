@@ -39,6 +39,7 @@ h2 {
 
 
 .header {
+  border: white 1px solid;
   font-size: 8em;
   text-align: center;
   background-color: rgb(16, 0, 156);
@@ -46,22 +47,29 @@ h2 {
 }
 
 .main {
+  border: white 1px solid;
+  text-align: center;
   background-color: rgb(65, 0, 245);
   grid-area: main;
 }
 
 .aside {
+  border: white 1px solid;
+  text-align: center;
   background-color: rgb(12, 0, 185);
   grid-area: aside;
 }
 
 .nav {
+  border: white 1px solid;
+  text-align: center;
   background-color: #1f80ff;
   grid-area: nav
 
 }
 
 .footer {
+  border: white 1px solid;
   background-color: rgb(16, 0, 156);
   grid-area: footer;
   color: white;
