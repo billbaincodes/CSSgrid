@@ -45,7 +45,7 @@ button {
 
 h2 {
   align-content: center;
-  color: rgb(247, 248, 205);
+  color: white;
   margin: 0;
 }
 
@@ -54,7 +54,6 @@ ul {
   margin: 5px;
   padding-left: 0;
 }
-
 
 .header {
   border: white 1px solid;
